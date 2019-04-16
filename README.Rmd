@@ -1,0 +1,17 @@
+---
+title: "Creating a Tidy Dataset of Physicl Activity Data Based on Accelerometer and Gyroscope Sensor Data"
+author: "Jordi Evers"
+date: "4/16/2019"
+output: html_document
+---
+
+## Purpose
+The run_analysis.r script calls several .txt files with smartphone-generated accelerometer data, gyroscope data, subject info and physical activity labels from UCI HAR Dataset and combines them into one tidy dataset.
+
+## Output
+'''{r eval=FALSE}
+merged_tidy
+'''
+
+
+
